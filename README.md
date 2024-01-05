@@ -1,6 +1,6 @@
 # ✏️ NavBar Exercise
 
-In this small React project, guided by instructor John Smilga (Udemy), I revisited some key approaches to toggling menus.
+In this small React project, guided by instructor John Smilga (Udemy), I revisited some key approaches to toggling menus. [Click here](https://hevelyncosta.github.io/navbar-exercise/) to take a peek.
 
 #### Revisited Topics
 
